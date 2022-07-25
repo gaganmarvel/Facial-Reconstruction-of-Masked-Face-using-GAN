@@ -28,7 +28,7 @@ Check out 'Facial Reconstruction of Masked Face Using Generative Adversarial Net
 
 Here's some sample outputs:
 
-Input--------------------------------------------mask segmentation-------------------------------generated output 
+----------Input----------------------------------mask segmentation-----------------------generated output---------
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/mask/000000.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/map/000000.png.jpg) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/result/000000.png.jpg )
 
