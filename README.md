@@ -43,6 +43,8 @@ The ground truth images for above examples:
 As you can see, even with the few resources we had, the outcomes are still more than adequate. Overfitting of the model can be seen, which results in poor generalisation. The issue might have been resolved by making the dataset more diverse and heterogeneous.
 
 ## NOTE: 
-We recommend you to use system with higher processor, higher RAM and a better GPU for smooth training and processing. 
-or
+We recommend you to use system with higher processor, higher RAM and a better GPU for smooth training and processing.
+
+OR
+
 Use `Google Colab Pro` to avoid "ResourceExhaustedError" error during the training process due to insufficient RAM.
