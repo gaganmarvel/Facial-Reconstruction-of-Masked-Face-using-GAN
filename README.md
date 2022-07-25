@@ -1,7 +1,7 @@
 # Facial-Reconstruction-of-Masked-Face-using-GAN
 
 ## Why
-With the advent of COVID-19 facial coverings like masks have become increasingly prevalent. Even though advanced facial recognition systems have been developed and produce satisfactory results, obstructions and covering on facial features is a major issue thatrender these systems useless. Since mask is one of the things that can be classified as obstruction to a face, we developed project that removes the mask and generates or reconstructs the hidden part of the face covered by mask.
+With the advent of COVID-19 facial coverings like masks have become increasingly prevalent. Even though advanced facial recognition systems have been developed and produce satisfactory results, obstructions and covering on facial features is a major issue that render these systems useless. Since mask is one of the things that can be classified as obstruction to a face, we developed project that removes the mask and generates or reconstructs the hidden part of the face covered by mask.
 
 ## Who
 It was developed by [Arpita Nanda](https://github.com/ArpitaNanda "Arpita Nanda"), [Dawood Damda](https://github.com/Dawood-Damda "Dawood Damda"), [Gagan V](https://github.com/gaganmarvel "Gagan V"), Emaad Jaffer
