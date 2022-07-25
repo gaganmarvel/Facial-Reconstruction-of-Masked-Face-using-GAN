@@ -26,7 +26,7 @@ After the training process, accuracy and loss graphs were plotted.
 
 Check out 'Facial Reconstruction of Masked Face Using Generative Adversarial Networks.pdf' for more detailed explanation about the project.
 
-Here's an example of the output.
+Here's some sample outputs.
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/mask/000000.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/map/000000.png.jpg) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/result/000000.png.jpg )
 
