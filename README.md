@@ -42,7 +42,7 @@ The ground truth images for above examples:
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/no_mask/000000.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/no_mask/000002.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/no_mask/000003.png)
 
-As you can see, even with the few resources we had, the outcomes are still more than adequate. Overfitting of the model can be seen, which results in poor generalisation. The issue might have been resolved by making the dataset more diverse and heterogeneous.
+As you can see, even with the few resources we had, the outcomes are still more than adequate. Overfitting of the model was seen, which resulted in poor generalisation. The issue might have been resolved by making the dataset more diverse and heterogeneous.
 
 ## NOTE: 
 We recommend you to use system with higher processor, higher RAM and a better GPU for smooth training and processing.
