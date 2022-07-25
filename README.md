@@ -23,7 +23,12 @@ This project will take all the required images the model needs (masked images) f
 After the training process, accuracy and loss graphs were plotted.
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/Accuracy%20and%20Loss/Segmentation%20model%20accuracy.png "Model Accuracy")  ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/Accuracy%20and%20Loss/Segmentation%20model%20accuracy.png "Model Loss")
-**_Model Accuracy                             Model Loss_**
+
+Check out 'Facial Reconstruction of Masked Face Using Generative Adversarial Networks.pdf' for more detailed explanation about the project.
+
+Here's an example of the output.
+
+![alt text](https://drive.google.com/file/d/1xrtLcEBqW6noQ_Xrx-6Dn0EpCqTredri/view?usp=sharing) ![alt text](https://drive.google.com/file/d/1Rf3OW0jlagT5GWYAEZbQ8snVz7d_2H7S/view?usp=sharing) ![alt text](https://drive.google.com/file/d/1A2dEHyIhduq4rwRp9ksgbPkdEWZkMIXn/view?usp=sharing)
 
 
 
