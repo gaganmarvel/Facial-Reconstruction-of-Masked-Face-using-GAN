@@ -16,7 +16,7 @@ This project will take all the required images the model needs (masked images) f
 ## How to run the project
 - Download or clone this repository.
 - Download the [Dataset](https://drive.google.com/drive/folders/1yPjANI3pCgd6SQ0_WX7I38QiUxuQk34U?usp=sharing "Training and testing dataset").
-- Run '''Unmask.ipynb'''
+- Run `Unmask.ipynb`
 - To skip the training process, you can download the pre-trained model from [Checkpoints](https://drive.google.com/drive/folders/1YJCCpV4UyyXlfvPrEYQvVUQzG9NtOcH6?usp=sharing "Pre-trained model").
 
 ## Results
@@ -39,4 +39,4 @@ As you can see, even with the few resources we had, the outcomes are still more 
 ## NOTE: 
 We recommend you to use system with higher processor, higher RAM and a better GPU for smooth training and processing. 
 or
-Use 'Google Colab Pro' to avoid "ResourceExhaustedError" error during the training process due to insufficient RAM.
+Use `Google Colab Pro` to avoid "ResourceExhaustedError" error during the training process due to insufficient RAM.
