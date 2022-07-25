@@ -24,4 +24,4 @@ After the training process, accuracy and loss graphs were plotted.
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/Accuracy%20and%20Loss/Segmentation%20model%20accuracy.png "Model Accuracy")
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/Accuracy%20and%20Loss/Segmentation%20model%20accuracy.png "Model Loss")
-
+ 
