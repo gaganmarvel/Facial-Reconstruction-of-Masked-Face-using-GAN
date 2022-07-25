@@ -34,6 +34,9 @@ Here's some sample outputs:
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/mask/000003.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/map/000003.png.jpg) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/result/000003.png.jpg)
 
+The ground truth images for above examples:
+![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/no_mask/000000.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/no_mask/000002.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/no_mask/000003.png)
+
 As you can see, even with the few resources we had, the outcomes are still more than adequate. Overfitting of the model can be seen, which results in poor generalisation. The issue might have been resolved by making the dataset more diverse and heterogeneous.
 
 ## NOTE: 
