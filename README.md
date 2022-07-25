@@ -26,7 +26,7 @@ After the training process, accuracy and loss graphs were plotted.
 
 Check out 'Facial Reconstruction of Masked Face Using Generative Adversarial Networks.pdf' for more detailed explanation about the project.
 
-Here's some sample outputs.
+Here's some sample outputs:
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/mask/000000.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/map/000000.png.jpg) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/result/000000.png.jpg )
 
@@ -34,4 +34,9 @@ Here's some sample outputs.
 
 ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/mask/000003.png) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/map/000003.png.jpg) ![alt text](https://github.com/gaganmarvel/Facial-Reconstruction-of-Masked-Face-using-GAN/blob/main/examples/result/000003.png.jpg)
 
- 
+As you can see, even with the few resources we had, the outcomes are still more than adequate. Overfitting of the model can be seen, which results in poor generalisation. The issue might have been resolved by making the dataset more diverse and heterogeneous.
+
+## NOTE: 
+We recommend you to use system with higher processor, higher RAM and a better GPU for smooth training and processing. 
+or
+Use 'Google Colab Pro' to avoid "ResourceExhaustedError" error during the training process due to insufficient RAM.
